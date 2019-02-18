@@ -11,3 +11,6 @@ If mexing is not possible (for instance, when codegen is not installed/available
 
 
 cytoskeletal_order_parameter() is used to assemble the overall distribution of stress-fibre orientations in cells on a given stripe from individual MCMC runs.
+
+
+DOI: 10.5281/zenodo.2571470
