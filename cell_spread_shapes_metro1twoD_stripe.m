@@ -1,7 +1,10 @@
-% --------------------------------------------------------------------
+% --------------------------------------------------------------------------------
 %                Released under MIT License
-% Authors: Andrea Vigliotti, Siamak S Shishvan, Hamsini Suresh
-% --------------------------------------------------------------------
+% Authors: Hamsini Suresh, Siamak S Shishvan, Andrea Vigliotti 
+% Code used to simulate myofibroblasts on adhesive stripes. Results reported in
+% Buskermolen et al (2019) "Entropic forces drive cellular contact guidance"
+% doi: https://doi.org/10.1101/479071
+% --------------------------------------------------------------------------------
 
 % Main function to run MCMC and generate distributions of Gibbs & Helmholtz
 % free-energies and cell morphometrics corresponding to the 
@@ -168,6 +171,8 @@ function [rndG, rndGcyto, rndAc, rndAn, rndAsRc, rndAsRn,...
     echokk  = 1;
     Nrjct   = 0;        % number of rejected iterations
     
+    % For more details on the MCMC calculations, refer to Supplementary S2.3
+    % of the above-mentioned paper
     %
     %   build the matrix for the NURBS interpolation
     
