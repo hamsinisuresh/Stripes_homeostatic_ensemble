@@ -1,7 +1,11 @@
-% --------------------------------------------------------------------
+% --------------------------------------------------------------------------------
 % Released under MIT License
 % Author: Hamsini Suresh
-% --------------------------------------------------------------------
+% Generation of cytoskeletal order parameter from simulations of myofibroblasts on
+% adhesive stripes. Results reported in Buskermolen et al (2019)
+% "Entropic forces drive cellular contact guidance"
+% doi: https://doi.org/10.1101/479071
+% --------------------------------------------------------------------------------
 
 % Post-process .mat files from MCMC and generate distributions of
 % stress-fibre(SF) orientations in the homeostatic ensemble for 
