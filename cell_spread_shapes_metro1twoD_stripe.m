@@ -1,7 +1,7 @@
 % --------------------------------------------------------------------------------
 %                Released under MIT License
 % Authors: Hamsini Suresh, Siamak S Shishvan, Andrea Vigliotti 
-% Code used to simulate myofibroblasts on adhesive stripes. Results reported in
+% Numerical simulation of myofibroblasts on adhesive stripes. Results reported in
 % Buskermolen et al (2019) "Entropic forces drive cellular contact guidance"
 % doi: https://doi.org/10.1101/479071
 % --------------------------------------------------------------------------------
