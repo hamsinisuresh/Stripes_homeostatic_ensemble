@@ -1,7 +1,10 @@
-% --------------------------------------------------------------------
+% --------------------------------------------------------------------------------
 %                Released under MIT License
-% Authors: Andrea Vigliotti, Siamak S Shishvan, Hamsini Suresh
-% --------------------------------------------------------------------
+% Authors: Hamsini Suresh, Siamak S Shishvan, Andrea Vigliotti 
+% Numerical simulation of myofibroblasts on adhesive stripes. Results reported in
+% Buskermolen et al (2019) "Entropic forces drive cellular contact guidance"
+% doi: https://doi.org/10.1101/479071
+% --------------------------------------------------------------------------------
 
 % Code to calculate strains, stresses within the cell and nucleus,
 % Helmholtz and Gibbs free-energies and cellular tractions under
