@@ -1,5 +1,5 @@
 # Stripes_homeostatic_ensemble
-_Matlab scripts to simulate how entropic forces drive contact guidance in myofibroblasts_
+_Matlab scripts to simulate how entropic forces drive contact guidance in myofibroblasts. Results reported in Buskermolen et al (2019) "Entropic forces drive cellular contact guidance" doi: https://doi.org/10.1101/479071 _
 
 cell_spread_shapes_metro1twoD_stripe() is the main function used to calculate distributions of cell morphometrics and free-energies for myofibroblasts on a stripe of given width 'swidth' (in microns).
 Sample command to run this function: cell_spread_shapes_metro1twoD_stripe('width160', 0.2, 0.238, 1, 1e6, 160, 1.5, 1)
